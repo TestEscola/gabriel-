@@ -1,0 +1,26 @@
+.top{
+    height: 100px;
+    background-color: grey;
+ border-radius: 30px;
+box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.801);
+color: grey;
+
+
+
+}
+.caixa{
+    width: 300px;
+    height: 600px;
+    background-color: grey;
+    border-radius:30px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.801);
+
+    }
+body{
+background-image: url(back.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+   
+}
+
+ 
